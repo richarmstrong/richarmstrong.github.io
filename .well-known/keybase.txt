@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/richarmstrong
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://armstrongri.ch
+  * I am richarmstrong (https://keybase.io/richarmstrong) on keybase.
+  * I have a public key ASCcnnXY97j_cHK_agTkPzxtnKgpSfFuqXgL3ikcrA3AEAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c9e75d8f7b8ff7072bf6a04e43f3c6d9ca82949f16ea9780bde291cac0dc0100a",
+      "host": "keybase.io",
+      "kid": "01209c9e75d8f7b8ff7072bf6a04e43f3c6d9ca82949f16ea9780bde291cac0dc0100a",
+      "uid": "5b7ac0855e25f25ee2823469f3832a19",
+      "username": "richarmstrong"
+    },
+    "merkle_root": {
+      "ctime": 1509221926,
+      "hash": "0fdb98ac843522ef459a3a97a33f1303ab2e5c0e95c45bde72fb6ab532d30d167bfdb21f4c8267aaad41823eeb7e8e9149c18341fd84528c42e9f42bae13935a",
+      "hash_meta": "652e8998489d68ad6134b6f757301f4ad434a0942476adc9de3c30e35a6e61a6",
+      "seqno": 1641721
+    },
+    "service": {
+      "hostname": "armstrongri.ch",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509221972,
+  "expire_in": 504576000,
+  "prev": "a49424fcca416937092cd83849a6e703ad2e6821045c52040e9097ed4cff8d5a",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnJ512Pe4/3Byv2oE5D88bZyoKUnxbql4C94pHKwNwBAKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWM5ZTc1ZDhmN2I4ZmY3MDcyYmY2YTA0ZTQzZjNjNmQ5Y2E4Mjk0OWYxNmVhOTc4MGJkZTI5MWNhYzBkYzAxMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWM5ZTc1ZDhmN2I4ZmY3MDcyYmY2YTA0ZTQzZjNjNmQ5Y2E4Mjk0OWYxNmVhOTc4MGJkZTI5MWNhYzBkYzAxMDBhIiwidWlkIjoiNWI3YWMwODU1ZTI1ZjI1ZWUyODIzNDY5ZjM4MzJhMTkiLCJ1c2VybmFtZSI6InJpY2hhcm1zdHJvbmcifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDkyMjE5MjYsImhhc2giOiIwZmRiOThhYzg0MzUyMmVmNDU5YTNhOTdhMzNmMTMwM2FiMmU1YzBlOTVjNDViZGU3MmZiNmFiNTMyZDMwZDE2N2JmZGIyMWY0YzgyNjdhYWFkNDE4MjNlZWI3ZThlOTE0OWMxODM0MWZkODQ1MjhjNDJlOWY0MmJhZTEzOTM1YSIsImhhc2hfbWV0YSI6IjY1MmU4OTk4NDg5ZDY4YWQ2MTM0YjZmNzU3MzAxZjRhZDQzNGEwOTQyNDc2YWRjOWRlM2MzMGUzNWE2ZTYxYTYiLCJzZXFubyI6MTY0MTcyMX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhcm1zdHJvbmdyaS5jaCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDkyMjE5NzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYTQ5NDI0ZmNjYTQxNjkzNzA5MmNkODM4NDlhNmU3MDNhZDJlNjgyMTA0NWM1MjA0MGU5MDk3ZWQ0Y2ZmOGQ1YSIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQM1Zvb3KDSl3KiyHT+1RHypJGNx1ddRk2eV+7X+gDa8aitFab8VTTlZmQPS+Sfll7R4fsH55wMWz3I6qgI+IHgeoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDwFZL5Cvl8R6JnPRVwr2+ANKLoWs+TnkLlO8nL1B9guqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/richarmstrong
+
+==================================================================
